@@ -1,35 +1,35 @@
 .vertical_top div th, .vertical_top div td {
-    vertical-align: top;
+    vertical-align: top !important;
 }
 
 .vertical_top_head div th {
-    vertical-align: top;
+    vertical-align: top !important;
 }
 
 .vertical_top_body div td {
-    vertical-align: top;
+    vertical-align: top !important;
 }
 
 .vertical_center div th, .vertical_center div td {
-    vertical-align: middle;
+    vertical-align: middle !important;
 }
 
 .vertical_center_head div th {
-    vertical-align: middle;
+    vertical-align: middle !important;
 }
 
 .vertical_center_body div td {
-    vertical-align: middle;
+    vertical-align: middle !important;
 }
 
 .vertical_bottom div th, .vertical_bottom div td {
-    vertical-align: bottom;
+    vertical-align: bottom !important;
 }
 
 .vertical_bottom_head div th {
-    vertical-align: bottom;
+    vertical-align: bottom !important;
 }
 
 .vertical_bottom_body div td {
-    vertical-align: bottom;
+    vertical-align: bottom !important;
 }
